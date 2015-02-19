@@ -8,7 +8,7 @@ namespace Evolution_01
     static class Program
     {
         /// <summary>
-        /// Главная точка входа для приложения. Новый первый коммит 3
+        /// Главная точка входа для приложения. Новый первый коммит 5
         /// </summary>
         [STAThread]
         static void Main()
